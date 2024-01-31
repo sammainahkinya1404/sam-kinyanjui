@@ -4,8 +4,8 @@
 
 Computer Science ,Msc(2023-2025)
 
-###Experience
-###Graduate Research Assistant Oct 2023 - Present
+### Experience
+### Graduate Research Assistant Oct 2023 - Present
 
 Machine Learning and Data Mining Practicals: Assisting the Undergraduate students in Machine
 Learning,Artificial Intelligence and Data mining Practicals in the following Areas using Python:Problem
@@ -15,7 +15,7 @@ tuning,Model Validation and Deployment of the model on applications
 ◦ Web Development Coding Practicals: Assisting undergraduate students in Web development using Django
 framework some of my work include:Teaching and Demonstrating,Hands-on coding sessions,Setting-up development
 environment,Version control using Git and GitHub and Answering Questions
-### Freelance Developer Online, Remote
+### Freelance Developer 
 
 ### Fiverr Jan 2022 - Present
 ◦ Data Science Projects: Developing full Data science projects using Python:Problem Definition,Data Cleaning
